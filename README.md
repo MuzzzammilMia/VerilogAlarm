@@ -1,7 +1,7 @@
 # VerilogAlarm
-First project in verilog, behavioural specification.
+This is my first program in verilog, behavioural specification.
 The objective of the project intented on helping me to learn the basics of verilog. 
-In particular  how to write behavioural code, learn programming practices and writing testbenches.
+In particular how to write behavioural code, learn programming practices and writing testbenches.
 
 AIM: Objective to be able to have an alarm to detect for burglers.
 
